@@ -1,4 +1,13 @@
-#EXp
+#ViT
+
+
+
+
+
+
+
+
+#EXp  just a DS
 
 DS:
 
@@ -20,7 +29,7 @@ https://1drv.ms/w/c/2b098fe45fe44001/IQDMN9fWbJRBRrzFK6bbmWDKATm7vcBsQO1JdYM27mM
 
 ////////////////////////////////////
 
-# CL-Drive
+# CL-Drive   huge nan
 
 Explanation:
 https://1drv.ms/w/c/2b098fe45fe44001/IQBjRtuOvN-vTYhAj44Om5mLAXC9LS8SyUiH909gdrLXCT8?e=3VWhL8
