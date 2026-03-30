@@ -2,10 +2,27 @@
 Swin Transformer (Shifted Window)
 
 
+Breast Ultrasound Image Database
+
+https://www.sciencedirect.com/science/article/pii/S1746809425008997#sec9  (Amin)
+https://www.sciencedirect.com/science/article/pii/S2352340919312181
+
+https://www.mdpi.com/2306-5354/11/9/945  EfficientUNetViT
+https://ieeexplore.ieee.org/document/11088943   ViT 
+https://arxiv.org/pdf/2110.14731v3
+
+https://www.sciencedirect.com/science/article/pii/S0169260724003663
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12428199/pdf/diagnostics-15-02235.pdf
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12428199/pdf/diagnostics-15-02235.pdf
+
+https://link.springer.com/chapter/10.1007/978-3-031-71848-9_12
 
 
 
 
+Teacher Student Architecture
 
 
 
