@@ -25,7 +25,12 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC12428199/pdf/diagnostics-15-02235.pdf
 https://link.springer.com/chapter/10.1007/978-3-031-71848-9_12
 
 
+gemeni
+Multi-Task VAE-GAN for Simultaneous
+Segmentation and Reconstruction in
+Breast Ultrasound
 
+https://docs.google.com/document/d/1EAPyQi0Y54T1LsC0HL2NuEJ_EaTUYgtBk8ws7jsg_5E/edit?tab=t.0
 
 Teacher Student Architecture    Knowledge Distillation
 
